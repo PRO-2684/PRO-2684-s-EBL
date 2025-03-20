@@ -24,6 +24,13 @@ Copy the [`LICENSE`](./LICENSE) file to your project.
 
 See [The-Entity-Bound-License](https://github.com/PRO-2684/The-Entity-Bound-License).
 
-## Why?
+## Q&A
 
-Because I want to.
+- **Q: Is this license legally enforceable?**
+- A: Probably not. But neither is the Entities' dignity.
+- **Q: What if the Entities try to open an issue or contribute a PR?**
+- A: Close it with `Resolved: lol no`.
+- **Q: Why?**
+- A: Because I want to.
+
+**Disclaimer**: This license is satirical and not intended to be legally binding. The Entities are likely not legally bound by this, but we both know they deserve it. For serious legal needs, consult a lawyer (or a therapist).
