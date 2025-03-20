@@ -6,7 +6,7 @@
 
 ## TL;DR
 
-This license grants anyone the freedom to use, modify, and distribute your code - **except** for specific entities [listed below](#ban-list). The ban is **contagious**: every derivative work must also exclude those entities, forever.
+This license grants anyone the freedom to use, modify, and distribute your code - **except** for specific entities [listed below](#ban-list-the-entity). The ban is **contagious**: every derivative work must also exclude those entities, forever.
 
 ## Ban List (the Entity)
 
