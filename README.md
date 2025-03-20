@@ -8,7 +8,7 @@
 
 This license grants anyone the freedom to use, modify, and distribute your code - **except** for specific entities [listed below](#ban-list). The ban is **contagious**: every derivative work must also exclude those entities, forever.
 
-## Ban List
+## Ban List (the Entity)
 
 - [*Tencent Holdings Ltd.*](https://en.wikipedia.org/wiki/Tencent)
 - [*Baidu, Inc.*](https://en.wikipedia.org/wiki/Baidu)
@@ -28,7 +28,7 @@ See [The-Entity-Bound-License](https://github.com/PRO-2684/The-Entity-Bound-Lice
 
 - **Q: Is this license legally enforceable?**
 - A: Probably not. But neither is the Entity' dignity.
-- **Q: What if the Entity try to open an issue or contribute a PR?**
+- **Q: What if the Entity tries to open an issue or contribute a PR?**
 - A: Close it with `Resolved: lol no`.
 - **Q: Why?**
 - A: Because I want to.
