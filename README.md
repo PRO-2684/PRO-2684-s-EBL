@@ -32,5 +32,3 @@ See [The-Entity-Bound-License](https://github.com/PRO-2684/The-Entity-Bound-Lice
 - A: Close it with `Resolved: lol no`.
 - **Q: Why?**
 - A: Because I want to.
-
-**Disclaimer**: This license is satirical and not intended to be legally binding. The Entity are likely not legally bound by this, but we both know they deserve it. For serious legal needs, consult a lawyer (or a therapist).
